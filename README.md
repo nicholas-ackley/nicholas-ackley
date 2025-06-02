@@ -5,11 +5,6 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, C++, Java 
-- **Frontend:** React, React Native, Tailwind, HTML/CSS  
-- **Backend:** Node.js, Firebase, MySQL  
-- **Tools:** Git, GitHub, VS Code, Expo, Figma
 ### 🛠️ My Top Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white"/>
@@ -32,8 +27,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasackley&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasackley&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-ackley&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-ackley&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
