@@ -1,18 +1,14 @@
-## Hi there 👋
-
-
-
 # Hi, I'm Nicholas Ackley 👋  
 🎓 Junior @ UT Dallas | 📚 CS & Classical Music  
 💻 Passionate about full-stack dev, Firebase, and app design  
-🎮 Gamer & Music Producer | 🎧 EDM + Classical Fusion
+🎵 Musician
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, C++, SQL, Prolog  
+- **Languages:** JavaScript, Python, C++, Java 
 - **Frontend:** React, React Native, Tailwind, HTML/CSS  
-- **Backend:** Node.js, Firebase, Express, MySQL  
+- **Backend:** Node.js, Firebase, MySQL  
 - **Tools:** Git, GitHub, VS Code, Expo, Figma
 
 ---
@@ -23,7 +19,7 @@
 `React | Firebase | REST API | Google Auth`
 
 ### 🛍️ [GreekPop (Depop Clone)](https://github.com/your-link)
-> App for reselling Greek life + college merchandise  
+> App for reselling Greek life + college merchandise - IN PROGRESS...
 `React Native | Firebase | Authentication | Bidding System`
 
 ---
@@ -36,7 +32,7 @@
 ---
 
 ## 📫 Contact Me
-- **Email:** nicholas.ackley@example.com  
+- **Email:** nicholas.ackey56@gmail.com
 - **LinkedIn:** [linkedin.com/in/nicholasackley](https://linkedin.com/in/nicholasackley)
 
 ---
