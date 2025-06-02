@@ -3,7 +3,12 @@
 💻 Passionate about full-stack dev, Firebase, and app design  
 🎵 Musician
 
+
+
 ---
+
+
+
 
 ### 🛠️ My Top Languages
 <p>
