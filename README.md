@@ -1,5 +1,48 @@
 ## Hi there 👋
 
+
+
+# Hi, I'm Nicholas Ackley 👋  
+🎓 Junior @ UT Dallas | 📚 CS & Classical Music  
+💻 Passionate about full-stack dev, Firebase, and app design  
+🎮 Gamer & Music Producer | 🎧 EDM + Classical Fusion
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** JavaScript, Python, C++, SQL, Prolog  
+- **Frontend:** React, React Native, Tailwind, HTML/CSS  
+- **Backend:** Node.js, Firebase, Express, MySQL  
+- **Tools:** Git, GitHub, VS Code, Expo, Figma
+
+---
+
+## 📂 Featured Projects
+### 🎯 [Textbook.io](https://github.com/your-link)
+> Marketplace for college students to buy/sell textbooks  
+`React | Firebase | REST API | Google Auth`
+
+### 🛍️ [GreekPop (Depop Clone)](https://github.com/your-link)
+> App for reselling Greek life + college merchandise  
+`React Native | Firebase | Authentication | Bidding System`
+
+---
+
+## 🧠 Currently Learning
+- Advanced database optimization
+- Redux for state management
+- CI/CD pipelines with GitHub Actions
+
+---
+
+## 📫 Contact Me
+- **Email:** nicholas.ackley@example.com  
+- **LinkedIn:** [linkedin.com/in/nicholasackley](https://linkedin.com/in/nicholasackley)
+
+---
+
+_Thanks for visiting my profile!_ 🚀
+
 <!--
 **nicholas-ackley/nicholas-ackley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
