@@ -66,7 +66,7 @@
 
 ## 📫 Contact Me
 - **Email:** nicholas.ackey56@gmail.com
-- **Instagram: nicholas.ackley** 
+- **Instagram:** nicholas.ackley
 - **LinkedIn:** [linkedin.com/in/nicholasackley](https://linkedin.com/in/nicholasackley)
 
 ---
