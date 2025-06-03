@@ -1,7 +1,7 @@
 # Hi, I'm Nicholas Ackley 👋  
 🎓 Junior @ UT Dallas | 📚 CS & Classical Music  
-💻 Passionate about full-stack dev, Firebase, and app design  
-🎵 Musician
+💻 Passionate about full-stack dev, data management, and app design  
+🎵 Musician 
 
 
 
