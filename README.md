@@ -58,8 +58,8 @@
 ---
 
 ## 🧠 Currently Learning
-- Advanced database optimization
-- Redux for state management
+- Advanced algorithm analysis
+- Data management - Python
 - CI/CD pipelines with GitHub Actions
 
 ---
