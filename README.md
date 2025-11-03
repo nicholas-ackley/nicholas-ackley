@@ -1,5 +1,5 @@
 # Hi, I'm Nicholas Ackley 👋  
-🎓 Senior @ UT Dallas | 📚 CS & Classical Music  
+🎓 Senior @ UT Dallas | 📚 CS & Music  
 💻 Passionate about full-stack dev, data management, and app design  
 🎵 Musician 
 
