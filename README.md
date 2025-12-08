@@ -46,20 +46,10 @@
 
 ---
 
-## 📂 Featured Projects
-### 🎯 [Textbook.io](https://github.com/your-link)
-> Marketplace for college students to buy/sell textbooks  
-`React | Firebase | REST API | Google Auth`
-
-### 🛍️ [GreekPop (Depop Clone)](https://github.com/your-link)
-> App for reselling Greek life + college merchandise - IN PROGRESS...
-`React Native | Firebase | Authentication | Bidding System`
-
----
 
 ## 🧠 Currently Learning
-- Advanced algorithm analysis
-- Data management - Python
+- Automata Theory
+- Computer Vision
 - CI/CD pipelines with GitHub Actions
 
 ---
