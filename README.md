@@ -47,8 +47,9 @@
 
 
 ## 🧠 Currently Learning
-- Automata Theory
+- Introduction to Machine Learning
 - Computer Vision
+- (Advanced) Object Oriented Programming
 - CI/CD pipelines with GitHub Actions
 
 ---
