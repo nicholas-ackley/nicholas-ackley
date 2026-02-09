@@ -7,12 +7,12 @@
 
 ### 📊 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-ackley&show_icons=true&theme=transparent&title_color=d984ff&icon_color=46e8ff&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-ackley&layout=compact&theme=transparent&title_color=d984ff&text_color=ffffff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-ackley&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-ackley&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-ackley&theme=transparent&hide_border=true&stroke=d984ff&ring=46e8ff&fire=d984ff&currStreakLabel=46e8ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-ackley&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
