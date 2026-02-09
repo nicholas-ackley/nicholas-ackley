@@ -6,10 +6,7 @@
 ---
 
 ### 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-ackley&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="Nick's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-ackley&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="Nick's Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-ackley&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
