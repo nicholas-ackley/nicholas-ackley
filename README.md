@@ -1,11 +1,11 @@
 # Hi, I'm Nick Ackley 👋
-🎓 Senior @ UT Dallas | 📚 CS & Music
-💻 Passionate about full-stack, data management, and Machine Learning
-🎵 Musician
+Senior @ UT Dallas |  CS & Music
+Passionate about full-stack, data management, and Machine Learning
+Musician
 
 ---
 
-### 📊 My GitHub Activity
+### My GitHub Activity
 
 
 <p align="center">
@@ -25,13 +25,13 @@
 
 ---
 
-### 🧠 Currently Learning
-- 🤖 Introduction to Machine Learning & Computer Vision
-- 🏗️ (Advanced) Object Oriented Programming
-- 🚀 CI/CD pipelines with GitHub Actions
+###  Currently Learning
+-  Introduction to Machine Learning & Computer Vision
+-  (Advanced) Object Oriented Programming
+- CI/CD pipelines with GitHub Actions
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - **LinkedIn:** [linkedin.com/in/nicholasackley](https://linkedin.com/in/nicholasackley)
 - **Email:** nicholas.ackey56@gmail.com
