@@ -1,4 +1,4 @@
-# Hi, I'm Nick Ackley 👋
+# Hi, I'm Nick 👋
 - Senior @ UT Dallas |  CS & Music
 - Passionate about full-stack, data management, and Machine Learning
 - Musician
@@ -24,12 +24,6 @@
   <img src="https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=ableton-live&logoColor=white"/>
 </p>
 
----
-
-###  Currently Learning
--  Introduction to Machine Learning & Computer Vision
--  (Advanced) Object Oriented Programming
-- CI/CD pipelines with GitHub Actions
 
 ---
 
