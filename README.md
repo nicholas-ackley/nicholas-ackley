@@ -1,7 +1,7 @@
 # Hi, I'm Nick 👋
 - Senior @ UT Dallas |  CS & Music
 - Passionate about full-stack, data management, and Machine Learning
-- Musician
+
 
 ---
 
