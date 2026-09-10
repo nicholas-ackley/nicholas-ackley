@@ -1,15 +1,19 @@
 # Hi, I'm Nick 👋
 - Senior @ UT Dallas |  CS & Music
-- Passionate about full-stack, data management, and Machine Learning
+- Passionate about Back-end, data management, and Machine Learning
 
 
 ---
 
 ### My GitHub Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nicholas-ackley&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-ackley&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-ackley&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-ackley&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
